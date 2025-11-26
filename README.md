@@ -1,5 +1,7 @@
 # Test Unitaire TDD 
 
+## Groupe : Dupuis Anatole, TU Antoine, Galystan Ambiya Dimas
+
 ## Projet MyWeeklyAllowance
 
 Vous allez concevoir un module de gestion d’argent de poche pour adolescents, selon la méthode TDD (Test Driven Development).
